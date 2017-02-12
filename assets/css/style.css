@@ -66,7 +66,7 @@ nav {
   border-bottom: 2px solid #ccc;
 }
 
-#logo {
+.navbar-brand {
   width: 250px;
   height: 90px;
   float: left;
@@ -148,7 +148,7 @@ h3,
 
 /*main*/
 
-#main-container {
+.main-container {
   padding-top: 130px;
 }
 
